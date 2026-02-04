@@ -1,0 +1,7 @@
+{
+  "MD007": false, # Unordered list indentation
+  "MD013": false, # Line length limitation
+  "MD033": false, # Enable Inline HTML
+  "MD041": false, # Allow first line heading
+  "MD045": false, # Allow Images have no alternate text
+}
