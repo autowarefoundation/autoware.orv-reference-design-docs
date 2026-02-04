@@ -1,0 +1,6 @@
+title: Software Configuration
+nav:
+  - index.md
+  - installation
+  - ros2
+  - zenoh
