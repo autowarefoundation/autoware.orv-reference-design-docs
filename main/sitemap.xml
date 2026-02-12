@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/evaluation-and-testing/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/hardware-configuration/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/hardware-configuration/ECUs/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/hardware-configuration/ECUs/ARM/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/hardware-configuration/ECUs/x86_64/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/hardware-configuration/Sensors-and-Actuators/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/odd-definition/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/software-configuration/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/software-configuration/installation/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/software-configuration/ros2/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/software-configuration/zenoh/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/system-configuration/</loc>
-         <lastmod>2026-02-04</lastmod>
+         <lastmod>2026-02-12</lastmod>
     </url>
 </urlset>
