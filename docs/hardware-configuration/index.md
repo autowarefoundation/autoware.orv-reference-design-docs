@@ -1,6 +1,7 @@
 # Hardware Configuration
 
 (To be completed.)
+
 This section provides the configuration of hardware devices to develop, testing, and build the off-road roboracier. 
 
 ## Configuration for Simulation Environment:
