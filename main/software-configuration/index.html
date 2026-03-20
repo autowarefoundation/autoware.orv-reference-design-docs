@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="../assets/images/autoware-foundation.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
       
@@ -1348,6 +1348,92 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#simulation-environment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Simulation Environment:
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Simulation Environment:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#install-nvidia-isaac-sim-for-off-road-roboracier" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Install nVIDIA ISAAC Sim for Off-road roboracier
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3d-model-for-philly-pumptrack-environment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3D Model for Philly Pumptrack Environment:
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#software-stack-on-off-road-roboracier" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Software Stack on Off-road roboracier:
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Software Stack on Off-road roboracier:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#software-architecture" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Software Architecture:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#drivable-area-detection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Drivable Area Detection:
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1367,7 +1453,18 @@
 
 
 <h1 id="software-configuration">Software Configuration<a class="headerlink" href="#software-configuration" title="Permanent link">#</a></h1>
-<p>(To be added.)</p>
+<p>(To be completed.)</p>
+<p>The software configuration section consists of the configuration for two parts: simulation environment and software stack on the vehicles. Below provides the configuration for these two software. </p>
+<h2 id="simulation-environment">Simulation Environment:<a class="headerlink" href="#simulation-environment" title="Permanent link">#</a></h2>
+<p>The off-road roboracers can be simulated and tested in a simulator. At this moment, nVIDIA ISAAC Sim is used to simluate the off-road environment. The hardware to deploy the simluation environment can be found <a href="../hardware-configuration/">here</a>.</p>
+<h3 id="install-nvidia-isaac-sim-for-off-road-roboracier">Install nVIDIA ISAAC Sim for Off-road roboracier<a class="headerlink" href="#install-nvidia-isaac-sim-for-off-road-roboracier" title="Permanent link">#</a></h3>
+<h3 id="3d-model-for-philly-pumptrack-environment">3D Model for Philly Pumptrack Environment:<a class="headerlink" href="#3d-model-for-philly-pumptrack-environment" title="Permanent link">#</a></h3>
+<p>Philly pumptrack is a sample off-road shown below to demonstrate the capability of off-road robo-racier. </p>
+<p><img alt="PhillyPumpTrack" src="https://private-user-images.githubusercontent.com/47904673/562330328-e82d4f94-69d8-4047-81e6-f180c6f57236.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwMDE3ODAsIm5iZiI6MTc3NDAwMTQ4MCwicGF0aCI6Ii80NzkwNDY3My81NjIzMzAzMjgtZTgyZDRmOTQtNjlkOC00MDQ3LTgxZTYtZjE4MGM2ZjU3MjM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIwVDEwMTEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4NzkzODA3ZjE5NWZkZjAwMDI5MjJkZjkxZGVkNWNjMDhkYzhhNTBmOWI2YWE3MzVjNzhmNzk5ODBmZjI3M2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xOuDmuYr4_RQ_RHETcq3e2J0HIY4MldoAakf2jzTP4Y" /></p>
+<h2 id="software-stack-on-off-road-roboracier">Software Stack on Off-road roboracier:<a class="headerlink" href="#software-stack-on-off-road-roboracier" title="Permanent link">#</a></h2>
+<p>No road infrastructures are available in off-road environment. Machine-learning-based vision models are developed and deployed to identify the drivable area, route, and control the vehicle. This section provide the reference design of the software stack for off-road roboraicer. </p>
+<h3 id="software-architecture">Software Architecture:<a class="headerlink" href="#software-architecture" title="Permanent link">#</a></h3>
+<h3 id="drivable-area-detection">Drivable Area Detection:<a class="headerlink" href="#drivable-area-detection" title="Permanent link">#</a></h3>
 
 
 
