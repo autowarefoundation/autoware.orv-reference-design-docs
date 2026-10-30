@@ -1,7 +1,7 @@
-site_name: Reference Design Guideline for Privately-owned Vehicles (PoV)
-site_url: https://autowarefoundation.github.io/autoware.pov-reference-design-docs
-repo_url: https://github.com/autowarefoundation/autoware.pov-reference-design-docs
-edit_uri: https://github.com/autowarefoundation/autoware.pov-reference-design-docs/edit/main/docs/
+site_name: Reference Design Guideline for Off-road Vehicles (OrV)
+site_url: https://autowarefoundation.github.io/autoware.orv-reference-design-docs
+repo_url: https://github.com/autowarefoundation/autoware.orv-reference-design-docs
+edit_uri: https://github.com/autowarefoundation/autoware.orv-reference-design-docs/edit/main/docs/
 docs_dir: docs
 copyright: Copyright &copy; 2025 The Autoware Foundation
 
